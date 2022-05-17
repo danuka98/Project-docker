@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/v1%40service": "file:///e%3A/SLIIT/4%20year/1%20Sem/CTSE/Lec%2010/Assignment/Final%20Project/app/service.yaml"
+  }
+}
