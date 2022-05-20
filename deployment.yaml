@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: danuka98/project-docker:v1
+        image: 721130514477.dkr.ecr.ap-south-1.amazonaws.com/project_cicd_pipeline
         ports:
         - containerPort: 4000
