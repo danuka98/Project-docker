@@ -82,3 +82,5 @@ exports.deleteProductDetails = async (req, res, next) => {
     message: "Remove Successfull",
   });
 };
+
+//test the pipeline
